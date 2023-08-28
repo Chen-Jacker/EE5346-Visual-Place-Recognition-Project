@@ -1,9 +1,10 @@
 # EE5346-Visual-Place-Recognition-Project
-This project realizes VPR (Visual Place Recognition) tasks based on RobotCar Dataset using combining RGB image matching and lidar data. The detail can be seen in ```EE5346-VPR-paper.pdf```
+This project realizes VPR (Visual Place Recognition) tasks based on RobotCar Dataset using combining RGB image matching and lidar data. The detail of introduction to the VPR task and our method can be seen in ```EE5346-VPR-paper.pdf```
 ## System Requirement
 - Ubuntu20.04
 
-##
+## Running the code
+- main.inpy
 
 ## Acknowledgements
 - [EE5346_2023_project](https://github.com/MedlarTea/EE5346_2023_project/)
