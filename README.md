@@ -4,6 +4,7 @@ This project realizes VPR (Visual Place Recognition) tasks based on RobotCar Dat
 - Ubuntu20.04
 
 ## Acknowledgements
+- [EE5346_2023 Project](https://github.com/MedlarTea/EE5346_2023_project/)
 - [Oxford RobotCar Dataset](https://robotcar-dataset.robots.ox.ac.uk/)
 ```
 @article{RobotCarDatasetIJRR,
